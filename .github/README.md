@@ -25,8 +25,10 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 
 For more information on the technologies that power the Yukki Music Bot, check out the [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/).
 
+<h4>Click the button below to deploy Yukki on Okteto!</h4><a href="https://cloud.okteto.com/deploy?repository=https://github.com/TeamYukki/YukkiMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
-
+<h4>Click the button below to deploy  on Heroku!</h4>    
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/Kutty-Angel/Kutty-Angel"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
 # ⚡️ Getting Started
 
 ### Before deploying Yukki Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
